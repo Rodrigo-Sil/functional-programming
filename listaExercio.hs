@@ -124,7 +124,7 @@ parImpar n
 -- avaliação. Para fins de divulgação, os cursos são classificados segundo uma classificação descrita na tabela
 -- abaixo:
 
---	         ________________________________
+--	          ________________________________
 --             |    [8, 10]      |      A     | 
 --             |    [7, 8 [      |      B     |
 --             |    [6, 7 [      |      C     |
