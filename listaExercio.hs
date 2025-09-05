@@ -124,13 +124,13 @@ parImpar n
 -- avaliação. Para fins de divulgação, os cursos são classificados segundo uma classificação descrita na tabela
 -- abaixo:
 
---	       ________________________________
+--	         ________________________________
 --             |    [8, 10]      |      A     | 
 --             |    [7, 8 [      |      B     |
 --             |    [6, 7 [      |      C     |
 --             |    [5, 6 [      |      D     |
 --             |    [0, 5 [      |      E     |
---	       |_________________|____________|
+--	         |_________________|____________|
 
 
 -- Escreva uma funcao avaliacaoCurso nota que recebe a nota do curso e retorne seu conceito
